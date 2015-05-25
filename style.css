@@ -1,0 +1,37 @@
+p {
+	color: gold;
+	text-align: center;
+   font-family: 'GreatVibesRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+ }
+
+h1{
+	color: Gold;
+	text-align: center;
+	text-align: center;
+   font-family: 'GreatVibesRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+body{
+    background-color:#0000CC ;
+	text-align: center;
+}
+head {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: #b0e0e6;
+	font-family: 'GreatVibesRegular'; 
+}
+h2 {
+	color: Gold;
+	text-align: center;
+	text-align: center;
+   font-family: 'GreatVibesRegular'; 
+   font-weight: normal; 
+   font-style: normal;
+
+}
